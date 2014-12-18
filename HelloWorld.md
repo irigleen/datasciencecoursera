@@ -1,4 +1,4 @@
-## This is amarkdown file 
+## This is a markdown file 
 ### It is called HelloWorld
 
 Before creating this I  
